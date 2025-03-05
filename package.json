@@ -1,0 +1,29 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "A lightweight and accessible quiz application for creating terms and definitions.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "quiz",
+    "react",
+    "terms",
+    "definitions"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "babel": "^6.23.0"
+  }
+}
